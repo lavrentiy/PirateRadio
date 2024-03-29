@@ -1,4 +1,4 @@
 PirateRadio
 ===========
 
-MAKE Raspberry Pi Automated FM Radio Script.
+MAKE RPi-FM GPIO-PWM Radio Script. Very very very low power.
